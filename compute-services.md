@@ -1,0 +1,11 @@
+Compute Services \
+Cloud compute services provide scalable virtual machines that allow organizations to run applications without managing physical hardware. The three major cloud providers — Amazon Web Services, Microsoft Azure, and Google Cloud Platform — offer powerful Infrastructure as a Service (IaaS) compute solutions.
+1. Amazon EC2 \
+Amazon Web Services EC2 (Elastic Compute Cloud) provides resizable virtual servers called instances. It allows users to choose instance types based on CPU, memory, storage, and networking capacity. EC2 supports multiple operating systems including Linux and Windows, offers Auto Scaling for automatic resource adjustment, integrates with Elastic Load Balancer for traffic distribution, and provides secure access using key pairs and Security Groups.\
+EC2 is widely used for hosting web applications, running enterprise software, big data processing, DevOps testing environments, and scalable backend systems. The pay-as-you-go pricing model reduces infrastructure costs while allowing flexibility to scale resources up or down based on demand.
+2. Microsoft Azure Virtual Machines \
+Microsoft Azure Virtual Machines provide scalable on-demand computing resources similar to traditional on-premise servers. Azure VMs support both Windows and Linux environments and offer multiple VM sizes optimized for compute-intensive, memory-intensive, or GPU workloads. Azure integrates seamlessly with Azure Active Directory, Virtual Networks, and Managed Disks. \
+Azure Virtual Machines are beneficial for enterprise applications, migration of legacy systems, development and testing environments, and hybrid cloud architectures. Azure also provides VM Scale Sets to automatically adjust the number of VM instances based on traffic.
+3. Google Compute Engine \
+Google Cloud Platform Compute Engine provides high-performance virtual machines running on Google’s global infrastructure. It supports custom machine types, automatic scaling, live migration during maintenance, and integration with Google Kubernetes Engine. \
+Google Compute Engine is ideal for high-performance computing, machine learning workloads, scalable web applications, and containerized environments. Its live migration feature ensures minimal downtime during maintenance, which is a major advantage.

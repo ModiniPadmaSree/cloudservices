@@ -8,7 +8,7 @@ Steps to use AWS CLI
 - Run commands - aws ec2 describe-instances
 2. Azure CLI \
 Microsoft Azure CLI enables management of Azure resources via command line. \
-Steps \
+Steps
 - Login - az login
 - Create VM - az vm create --name myVM --resource-group myRG --image UbuntuLTS
 3. Google Cloud SDK \
